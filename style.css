@@ -1,0 +1,30 @@
+*{
+    background-color: blanchedalmond;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+h3,h1{
+    color: rgb(169, 27, 86);
+}
+#signup,#login{
+    background-color: aqua;
+}
+.follow{
+    background-color: rgb(162, 147, 176);
+    color: black;
+}
+main a{
+    
+    font-weight: lighter;
+    background-color: gray;
+}
+p+h3{
+    text-decoration: underline;
+    
+}
+div>input{
+    background-color: wheat;
+    
+}
+
